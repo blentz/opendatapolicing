@@ -1,0 +1,6 @@
+tickTime=2000
+initLimit=20
+syncLimit=10
+dataDir=/data
+admin.serverPort=48484
+admin.enableServer=true
